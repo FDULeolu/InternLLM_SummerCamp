@@ -10,7 +10,8 @@
 
 ## L0_Python
 1. 用Python实现wordcount函数，统计英文字符串中每个单词出现的次数，返回一个字典，`(key, value)`为对应单词和对应单词出现的次数
-Input:
+
+**Input**:
 ```python
 Hello world!  
 This is an example.  
@@ -19,7 +20,7 @@ Is it fun to count words?
 Yes, it is fun!
 ```
 
-Output:
+**Output**:
 ```python
 {'hello': 1,'world!': 1,'this': 1,'is': 3,'an': 1,'example': 1,'word': 1,      'count': 2,'fun': 1,'Is': 1,'it': 2,'to': 1,'words': 1,'Yes': 1,'fun': 1  }
 ```
